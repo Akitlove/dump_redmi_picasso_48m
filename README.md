@@ -1,0 +1,20 @@
+## aosp_picasso_48m-userdebug 13 TQ3A.230805.001 1692161205 release-keys
+- Manufacturer: xiaomi
+- Platform: lito
+- Codename: picasso_48m
+- Brand: Redmi
+- Flavor: aosp_picasso_48m-userdebug
+- Release Version: 13
+- Kernel Version: 4.19.113
+- Id: TQ3A.230805.001
+- Incremental: 1692161205
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Redmi/picasso_48m/picasso:12/SKQ1.211006.001/V13.0.4.0.SGICMXM:user/release-keys
+- OTA version: 
+- Branch: aosp_picasso_48m-userdebug-13-TQ3A.230805.001-1692161205-release-keys
+- Repo: redmi_picasso_48m_dump
